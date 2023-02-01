@@ -4,7 +4,7 @@ funny friend points tracker to mess with the lads
 # Scoreboard
 | Danny | Goose | Nalty |
 |---|---|---|
-| 45 points | 20 points | 36 points |
+| 65 points | 20 points | 36 points |
 
 ## Danny
 | Points | Reason |
@@ -12,6 +12,7 @@ funny friend points tracker to mess with the lads
 | 10 | Sesh lady |
 | 15 | prints |
 | 20 | uses my hosting and other services |
+| 20 | Was our internal support in Discord |
 
 ## Goose
 | Points | Reason |
