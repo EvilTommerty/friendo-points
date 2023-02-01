@@ -2,9 +2,9 @@
 funny friend points tracker to mess with the lads
 
 # Scoreboard
-| Nalty | Danny | Goose |
+| Danny | Goose | Nalty |
 |---|---|---|
-| 26 points | 45 points | 20 points |
+| 45 points | 20 points | 36 points |
 
 ## Danny
 | Points | Reason |
