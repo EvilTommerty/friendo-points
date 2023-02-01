@@ -12,11 +12,7 @@ funny friend points tracker to mess with the lads
 | 10 | excersize bike |
 | 10 | just for being a sound feller |
 | 5 | estonia candle |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
 
 
 ## Danny
@@ -25,8 +21,4 @@ funny friend points tracker to mess with the lads
 | 10 | Sesh lord |
 | 15 | prints |
 | 20 | uses my hosting and other services |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
