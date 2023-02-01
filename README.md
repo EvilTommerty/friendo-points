@@ -9,10 +9,9 @@ funny friend points tracker to mess with the lads
 ## Danny
 | Points | Reason |
 |---|---|
-| 11 | Sesh lord |
+| 10 | Sesh lady |
 | 15 | prints |
 | 20 | uses my hosting and other services |
-| 10 | gym budder |
 
 ## Goose
 | Points | Reason |
@@ -22,7 +21,8 @@ funny friend points tracker to mess with the lads
 ## Nalty
 | Points | Reason |
 |---|---|
-| 10 | exercise bike |
+| 11 | exercise bike |
 | 10 | just for being a sound feller |
 | 5 | estonia candle |
+| 10 | gym budder |
 
