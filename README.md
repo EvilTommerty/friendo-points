@@ -4,7 +4,7 @@ funny friend points tracker to mess with the lads
 # Scoreboard
 | Danny | Goose | Nalty |
 |---|---|---|
-| 60 points | 60 points | 76 points |
+| 60 points | 60 points | 56 points |
 
 ## Danny
 | Points | Reason |
@@ -31,3 +31,4 @@ funny friend points tracker to mess with the lads
 | 10 | gym budder |
 | 30 | We survived Limerick city together and ran away with eachother into the sunset |
 | 10 | Clondalkin brudders |
+| -20 | compared me to styrofoam |
