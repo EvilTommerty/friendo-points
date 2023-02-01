@@ -1,12 +1,14 @@
 ---
-name: Update Points for {user}
-about: Replace {user} with who the points are for
+name: Update Points
+about: Please fill out all the fields below :)
 title: ''
 labels: Table Update
 assignees: ''
 
 ---
 
+# Person = person
+_replace `person` with the amount_
 # Point Value  = value
 _replace value with the amount_
 
