@@ -4,7 +4,7 @@ funny friend points tracker to mess with the lads
 # Scoreboard
 | Danny | Goose | Nalty |
 |---|---|---|
-| 65 points | 35 points | 76 points |
+| 60 points | 35 points | 76 points |
 
 ## Danny
 | Points | Reason |
@@ -13,6 +13,7 @@ funny friend points tracker to mess with the lads
 | 15 | prints |
 | 20 | uses my hosting and other services |
 | 20 | Was our internal support in Discord |
+| -5 | Faranree is a shithole I'd like to forget, you get minus points for that one for wasting my time with such a silly issue |
 
 ## Goose
 | Points | Reason |
