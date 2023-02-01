@@ -4,7 +4,7 @@ funny friend points tracker to mess with the lads
 # Scoreboard
 | Danny | Goose | Nalty |
 |---|---|---|
-| 60 points | 35 points | 76 points |
+| 60 points | 60 points | 76 points |
 
 ## Danny
 | Points | Reason |
@@ -20,6 +20,7 @@ funny friend points tracker to mess with the lads
 |---|---|
 | 20 | haaapes' o' butter on the toast |
 | 15 | Always sound to me in Uno unlike the lads |
+| 25 | Always reminds me to wear my glasses |
 
 ## Nalty
 | Points | Reason |
